@@ -45,5 +45,5 @@ npm install -g remote-share-cli
 *  [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line to your local network
 
 ---
-share-cli is built by [Mario Nebl](https://github.com/marionebl) and released
+remote-share-cli is built by [Mario Nebl](https://github.com/marionebl) and released
 under the [MIT](./license.md) license.
