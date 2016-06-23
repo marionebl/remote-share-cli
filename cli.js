@@ -193,53 +193,61 @@ function getFile(options) {
  * @return {Promise<Object>} - started server instance
  */
 function serve(options) {
-	return new Promise((resolve, reject) => {
+	const subdomain = options.id.split('-').join('').slice(0, 20);
+
+	return tunnel(options.port, {
+		subdomain
+	})
+	.then(connection => {
 		const file = options.file;
 		const downloadName = file.name || options.id;
-		const subdomain = options.id.split('-').join('').slice(0, 20);
 
-		const server = http.createServer((request, response) => {
-			// Only HEAD and GET are allowed
-			if (['GET', 'HEAD'].indexOf(request.method) === -1) {
-				response.writeHead(405);
-				return response.end('Method not Allowed.');
-			}
+		return new Promise((resolve, reject) => {
+			const server = http.createServer((request, response) => {
+				// Only HEAD and GET are allowed
+				if (['GET', 'HEAD'].indexOf(request.method) === -1) {
+					response.writeHead(405);
+					return response.end('Method not Allowed.');
+				}
 
-			resetTimer();
-
-			response.setHeader('Content-Type', mime.lookup(downloadName));
-			response.setHeader('Content-Disposition', `attachment; filename=${downloadName}`);
-
-			if (file.size) {
-				response.setHeader('Content-Length', file.size);
-			}
-
-			// Do not send a body for HEAD requests
-			if (request.method === 'HEAD') {
-				response.setHeader('Connection', 'close');
-				return response.end();
-			}
-
-			file.stream.on('data', () => {
 				resetTimer();
+
+				response.setHeader('Content-Type', mime.lookup(downloadName));
+				response.setHeader('Content-Disposition', `attachment; filename=${downloadName}`);
+
+				if (file.size) {
+					response.setHeader('Content-Length', file.size);
+				}
+
+				// Do not send a body for HEAD requests
+				if (request.method === 'HEAD') {
+					response.setHeader('Connection', 'close');
+					return response.end();
+				}
+
+				file.stream.on('data', () => {
+					resetTimer();
+				});
+
+				file.stream.pipe(response)
+					.on('finish', () => {
+						setTimeout(() => {
+							log('Download completed, closing tunnel...');
+							// Kill the process when download completed
+							connection.on('close', () => {
+								log('Closed tunnel, killing process');
+								process.exit(0);
+							});
+							connection.close();
+						}, 1000);
+					});
 			});
 
-			file.stream.pipe(response)
-				.on('finish', () => {
-					log('Download completed, killing process');
-					// Kill the process when download completed
-					process.exit(0);
-				});
-		});
+			server.on('error', reject);
 
-		server.on('error', reject);
-
-		server.listen(options.port, () => {
-			tunnel(options.port, {
-				subdomain
-			})
-			.then(resolve)
-			.catch(reject);
+			server.listen(options.port, () => {
+				resolve(connection);
+			});
 		});
 	});
 }
