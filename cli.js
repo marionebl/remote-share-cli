@@ -11,6 +11,7 @@ const fs = require('fs');
 const http = require('http');
 const os = require('os');
 const path = require('path');
+const util = require('util');
 
 const copyPaste = require('copy-paste');
 const chalk = require('chalk');
@@ -21,19 +22,21 @@ const mime = require('mime');
 const portscanner = require('portscanner');
 const generate = require('project-name-generator');
 
+const log = util.debuglog('remote-share-cli');
+
 const cli = meow(`
 	Usage
-		$ remote-share [file]
+		$ share [file]
 
 	Options
 		-n, --name Forced download name of the file
 
 	Examples
-		$ remote-share shared.png
-		https://unequal-wish.localtunnel.me
+		$ share shared.png
+		http://192.168.1.1:1337/unequal-wish
 
-		$ cat shared.png | remote-share --name=shared.png
-		https://important-downtown.localtunnel.me
+		$ cat shared.png | share --name=shared.png
+		http://192.168.1.1:1337/important-downtown
 `, {
 	alias: {
 		n: 'name'
@@ -45,14 +48,17 @@ const stdin = process.stdin;
 
 // Kill process after 5 minutes of inactivity
 function resetTimer() {
+	log('Reseting activitiy timer');
 	killTimer();
 	setTimer();
 }
 
 function setTimer() {
+	log('Setting activitiy timer, timing out after 5 minutes');
 	__timer = setTimeout(() => {
+		log('Timeout without after 5 minutes without activitiy, killing process');
 		process.exit(0);
-	}, 30000);
+	}, 300000);
 }
 
 function killTimer() {
@@ -141,19 +147,39 @@ function getOpenPort() {
  * @param {String} [options.filePath] - Absolute path of file to read
  * @param {String} [options.fileName] - Basename of file to read, defaults to path.basename(option.filePath)
  *
- * @return {File}
+ * @return {Promise<File>}
  */
 function getFile(options) {
-	const stream = options.isStdin ?
-		stdin : fs.createReadStream(options.filePath);
+	return new Promise((resolve, reject) => {
+		const stream = options.isStdin ?
+			stdin : fs.createReadStream(options.filePath);
 
-	const name = options.isStdin ?
-		options.fileName : path.basename(options.filePath);
+		const name = options.isStdin ?
+			options.fileName : path.basename(options.filePath);
 
-	return {
-		stream,
-		name
-	};
+		if (options.isStdin) {
+			return resolve({
+				stream,
+				name,
+				size: null,
+				ino: null,
+				mtime: null
+			});
+		}
+
+		fs.stat(options.filePath, (error, stat) => {
+			if (error) {
+				return reject(error);
+			}
+			resolve({
+				stream,
+				name,
+				size: stat.size,
+				ino: stat.ino,
+				mtime: Date.parse(stat.mtime)
+			});
+		});
+	});
 }
 
 /**
@@ -173,20 +199,37 @@ function serve(options) {
 		const subdomain = options.id.split('-').join('').slice(0, 20);
 
 		const server = http.createServer((request, response) => {
+			// Only HEAD and GET are allowed
+			if (['GET', 'HEAD'].indexOf(request.method) === -1) {
+				response.writeHead(405);
+				return response.end('Method not Allowed.');
+			}
+
 			resetTimer();
 
 			response.setHeader('Content-Type', mime.lookup(downloadName));
 			response.setHeader('Content-Disposition', `attachment; filename=${downloadName}`);
 
-			file.stream.pipe(response);
+			if (file.size) {
+				response.setHeader('Content-Length', file.size);
+			}
 
-			// Kill the process when download completed
-			file.stream.on('close', () => {
-				// Let localtunnel settle before killing the process
-				setTimeout(() => {
+			// Do not send a body for HEAD requests
+			if (request.method === 'HEAD') {
+				response.setHeader('Connection', 'close');
+				return response.end();
+			}
+
+			file.stream.on('data', () => {
+				resetTimer();
+			});
+
+			file.stream.pipe(response)
+				.on('finish', () => {
+					log('Download completed, killing process');
+					// Kill the process when download completed
 					process.exit(0);
 				});
-			});
 		});
 
 		server.on('error', reject);
@@ -220,13 +263,12 @@ function serveFile(file) {
 			};
 
 			return serve(options)
-				.then(connection => connection.url)
-				.then(copy);
+				.then(connection => copy(connection.url));
 		});
 }
 
 /**
- * Execute share-cli main procedure
+ * Execute remote-share-cli main procedure
  *
  * @param {String[]} input - non-flag arguments
  * @param {Object} args - flag arguments
@@ -247,14 +289,16 @@ function main(filePath, args) {
 		const isStdin = stdin.isTTY !== true && typeof filePath === 'undefined';
 
 		// Get a file object
-		const file = getFile({
+		const gettingFile = getFile({
 			isStdin,
 			filePath,
 			fileName: args.name
 		});
 
-		const address = serveFile(file);
-		resolve(address);
+		gettingFile
+			.then(serveFile)
+			.then(resolve)
+			.catch(reject);
 	});
 }
 
