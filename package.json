@@ -1,6 +1,6 @@
 {
   "name": "remote-share-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Quickly share files from command line with the world",
   "bin": {
     "remote-share": "./cli.js"
