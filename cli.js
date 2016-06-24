@@ -44,6 +44,7 @@ const cli = meow(`
 });
 
 let __timer = null;
+let connection;
 const stdin = process.stdin;
 
 // Kill process after 5 minutes of inactivity
@@ -220,15 +221,23 @@ function serve(options) {
 				return response.end();
 			}
 
+			const start = new Date();
+
 			file.stream.on('data', () => {
 				resetTimer();
 			});
 
 			file.stream.pipe(response)
 				.on('finish', () => {
-					log('Download completed, killing process');
-					// Kill the process when download completed
-					process.exit(0);
+					const duration = new Date() - start;
+					const ttl = duration / 2;
+
+					// Give the downloader the half absolute download time
+					// to get remaining data from localtunnel.me
+					setTimeout(() => {
+						log(`Download completed after ${duration}ms, killing process in ${ttl}ms`);
+						process.exit(0);
+					}, ttl);
 				});
 		});
 
@@ -237,6 +246,10 @@ function serve(options) {
 		server.listen(options.port, () => {
 			tunnel(options.port, {
 				subdomain
+			})
+			.then(tunneled => {
+				connection = tunneled;
+				return connection;
 			})
 			.then(resolve)
 			.catch(reject);
