@@ -3,7 +3,7 @@
 
 /**
  * remote-share-cli
- * Quickly share files from command line to the world
+ * Quickly share files from command line with the world
  * Author: Mario Nebl <https://github.com/marionebl>
  * License: MIT
  */
@@ -26,17 +26,17 @@ const log = util.debuglog('remote-share-cli');
 
 const cli = meow(`
 	Usage
-		$ share [file]
+		$ remote-share [file]
 
 	Options
 		-n, --name Forced download name of the file
 
 	Examples
-		$ share shared.png
-		http://192.168.1.1:1337/unequal-wish
+		$ remote-share shared.png
+		https://mysteriouswomen.localtunnel.me
 
-		$ cat shared.png | share --name=shared.png
-		http://192.168.1.1:1337/important-downtown
+		$ cat shared.png | remote-share --name=shared.png
+		https://humbleappliance.localtunnel.me
 `, {
 	alias: {
 		n: 'name'

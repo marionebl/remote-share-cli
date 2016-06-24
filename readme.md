@@ -1,4 +1,4 @@
-> Quickly share files from command line to the world
+> Quickly share files from command line with the world
 
 ![remote-share-cli Demo](./demo.gif)
 
@@ -24,20 +24,20 @@ npm install -g remote-share-cli
 ```
 ❯ remote-share --help
 
-  Quickly share files from command line to the world
+  Quickly share files from command line with the world
 
   Usage
-  	$ remote-share [file]
+    $ remote-share [file]
 
   Options
-  	-n, --name Forced download name of the file
+    -n, --name Forced download name of the file
 
   Examples
-  	$ remote-share shared.png
-  	https://unequal-wish.localtunnel.me
+    $ remote-share shared.png
+    https://mysteriouswomen.localtunnel.me
 
-  	$ cat shared.png | remote-share --name=shared.png
-  	https://important-downtown.localtunnel.me
+    $ cat shared.png | remote-share --name=shared.png
+    https://humbleappliance.localtunnel.me
 ```
 
 ## Related projects
