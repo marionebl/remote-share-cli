@@ -1,6 +1,8 @@
 > Quickly share files from command line with the world
 
-![remote-share-cli Demo](./demo.gif)
+<p align="center">
+  <img width="750" src="https://cdn.rawgit.com/marionebl/remote-share-cli/a664b11f/demo.svg">
+</p>
 
 # remote-share-cli
 
