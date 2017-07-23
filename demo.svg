@@ -1,0 +1,361 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="font-family: Consolas, Menlo, &#39;Bitstream Vera Sans Mono&#39;, monospace, &#39;Powerline Symbols&#39;; font-size: 16;" width="1182" height="692.5"><style type="text/css">
+		.viewbox {
+			animation-name: sequence;
+			animation-duration: 21.018536s;
+			animation-timing-function: steps(69, end);
+			animation-iteration-count: infinite;
+		}
+		@keyframes sequence {
+			from {
+				transform: translateX(0);
+			}
+			
+			@keyframe 1.5073932837187136% {
+				transform: translateX(-1180px);
+			}
+		
+
+			@keyframe 1.753219158556048% {
+				transform: translateX(-2360px);
+			}
+		
+
+			@keyframe 1.754146911088384% {
+				transform: translateX(-3540px);
+			}
+		
+
+			@keyframe 9.401363634460553% {
+				transform: translateX(-4720px);
+			}
+		
+
+			@keyframe 9.402767157522293% {
+				transform: translateX(-5900px);
+			}
+		
+
+			@keyframe 9.404955701957547% {
+				transform: translateX(-7080px);
+			}
+		
+
+			@keyframe 9.799664448561023% {
+				transform: translateX(-8260px);
+			}
+		
+
+			@keyframe 10.164532867560329% {
+				transform: translateX(-9440px);
+			}
+		
+
+			@keyframe 10.72953891745838% {
+				transform: translateX(-10620px);
+			}
+		
+
+			@keyframe 11.038432933673402% {
+				transform: translateX(-11800px);
+			}
+		
+
+			@keyframe 11.455074701682364% {
+				transform: translateX(-12980px);
+			}
+		
+
+			@keyframe 12.48169710773386% {
+				transform: translateX(-14160px);
+			}
+		
+
+			@keyframe 13.2829184677753% {
+				transform: translateX(-15340px);
+			}
+		
+
+			@keyframe 14.121316536984308% {
+				transform: translateX(-16520px);
+			}
+		
+
+			@keyframe 14.467610874515712% {
+				transform: translateX(-17700px);
+			}
+		
+
+			@keyframe 14.959743152425077% {
+				transform: translateX(-18880px);
+			}
+		
+
+			@keyframe 15.377122364754614% {
+				transform: translateX(-20060px);
+			}
+		
+
+			@keyframe 15.378797077018111% {
+				transform: translateX(-21240px);
+			}
+		
+
+			@keyframe 19.45021765550179% {
+				transform: translateX(-22420px);
+			}
+		
+
+			@keyframe 19.451464174288827% {
+				transform: translateX(-23600px);
+			}
+		
+
+			@keyframe 19.98339465698277% {
+				transform: translateX(-24780px);
+			}
+		
+
+			@keyframe 19.985088400067447% {
+				transform: translateX(-25960px);
+			}
+		
+
+			@keyframe 20.292107880396618% {
+				transform: translateX(-27140px);
+			}
+		
+
+			@keyframe 20.673052585584454% {
+				transform: translateX(-28320px);
+			}
+		
+
+			@keyframe 21.390171989143294% {
+				transform: translateX(-29500px);
+			}
+		
+
+			@keyframe 25.23553020058105% {
+				transform: translateX(-30680px);
+			}
+		
+
+			@keyframe 25.80696866803663% {
+				transform: translateX(-31860px);
+			}
+		
+
+			@keyframe 26.60556377475577% {
+				transform: translateX(-33040px);
+			}
+		
+
+			@keyframe 28.20120773397348% {
+				transform: translateX(-34220px);
+			}
+		
+
+			@keyframe 28.203091785269915% {
+				transform: translateX(-35400px);
+			}
+		
+
+			@keyframe 30.02817608229232% {
+				transform: translateX(-36580px);
+			}
+		
+
+			@keyframe 30.029760398155233% {
+				transform: translateX(-37760px);
+			}
+		
+
+			@keyframe 30.983394847290988% {
+				transform: translateX(-38940px);
+			}
+		
+
+			@keyframe 30.98471273165743% {
+				transform: translateX(-40120px);
+			}
+		
+
+			@keyframe 31.439772969915698% {
+				transform: translateX(-41300px);
+			}
+		
+
+			@keyframe 33.913832057570524% {
+				transform: translateX(-42480px);
+			}
+		
+
+			@keyframe 33.915230822926965% {
+				transform: translateX(-43660px);
+			}
+		
+
+			@keyframe 36.39360990698877% {
+				transform: translateX(-44840px);
+			}
+		
+
+			@keyframe 36.394965852997565% {
+				transform: translateX(-46020px);
+			}
+		
+
+			@keyframe 39.35414911866364% {
+				transform: translateX(-47200px);
+			}
+		
+
+			@keyframe 39.51591109866073% {
+				transform: translateX(-48380px);
+			}
+		
+
+			@keyframe 39.51635356525308% {
+				transform: translateX(-49560px);
+			}
+		
+
+			@keyframe 44.51698253389295% {
+				transform: translateX(-50740px);
+			}
+		
+
+			@keyframe 51.45747068206844% {
+				transform: translateX(-51920px);
+			}
+		
+
+			@keyframe 51.45807491064079% {
+				transform: translateX(-53100px);
+			}
+		
+
+			@keyframe 51.45828900737902% {
+				transform: translateX(-54280px);
+			}
+		
+
+			@keyframe 51.645366737245645% {
+				transform: translateX(-55460px);
+			}
+		
+
+			@keyframe 51.64551422610976% {
+				transform: translateX(-56640px);
+			}
+		
+
+			@keyframe 74.79439576571842% {
+				transform: translateX(-57820px);
+			}
+		
+
+			@keyframe 74.79555664581017% {
+				transform: translateX(-59000px);
+			}
+		
+
+			@keyframe 74.79824950700657% {
+				transform: translateX(-60180px);
+			}
+		
+
+			@keyframe 75.17560214469742% {
+				transform: translateX(-61360px);
+			}
+		
+
+			@keyframe 75.17847104098972% {
+				transform: translateX(-62540px);
+			}
+		
+
+			@keyframe 75.82279755354988% {
+				transform: translateX(-63720px);
+			}
+		
+
+			@keyframe 75.82570926918982% {
+				transform: translateX(-64900px);
+			}
+		
+
+			@keyframe 76.2415422272988% {
+				transform: translateX(-66080px);
+			}
+		
+
+			@keyframe 76.24433500030639% {
+				transform: translateX(-67260px);
+			}
+		
+
+			@keyframe 77.42337049545219% {
+				transform: translateX(-68440px);
+			}
+		
+
+			@keyframe 77.42652009635684% {
+				transform: translateX(-69620px);
+			}
+		
+
+			@keyframe 78.76788373842972% {
+				transform: translateX(-70800px);
+			}
+		
+
+			@keyframe 78.76938241559735% {
+				transform: translateX(-71980px);
+			}
+		
+
+			@keyframe 83.58789118328697% {
+				transform: translateX(-73160px);
+			}
+		
+
+			@keyframe 87.77418655609505% {
+				transform: translateX(-74340px);
+			}
+		
+
+			@keyframe 87.77491924271033% {
+				transform: translateX(-75520px);
+			}
+		
+
+			@keyframe 87.83813487295211% {
+				transform: translateX(-76700px);
+			}
+		
+
+			@keyframe 88.01646318278303% {
+				transform: translateX(-77880px);
+			}
+		
+
+			@keyframe 88.01702459200772% {
+				transform: translateX(-79060px);
+			}
+		
+
+			@keyframe 99.99202132822188% {
+				transform: translateX(-80240px);
+			}
+		
+
+			@keyframe 99.99226397119187% {
+				transform: translateX(-81420px);
+			}
+		
+			to {
+				transform: translateX(-81420px);
+			}
+		}
+	</style><g><rect style="background-color: #151718; stroke: #303030; stroke-width: 1;" rx="5" ry="5" width="1181" height="641.5"></rect><circle cx="20" cy="20" r="7.5" fill="#ff5f58"></circle><circle cx="45" cy="20" r="7.5" fill="#ffbd2e"></circle><circle cx="70" cy="20" r="7.5" fill="#18c132"></circle><text style="fill: rgb(85, 85, 85); font-size: 16px; text-anchor: middle;" x="591" y="25"></text><g class="viewbox"><svg x="15" y="50" width="81558"><svg x="2360"><rect width="10" height="20" x="20" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16"><style>.tuohi3 {fill: #50b3dd}</style>~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"><style>.tZ1XQohX {fill: #d4d6d6}</style> </text><text class="t1b70aa" x="330" y="16"><style>.t1b70aa {fill: #1d262b}</style>master*</text><text class="tZLMqtg" x="0" y="36"><style>.tZLMqtg {fill: #9fcc4e}</style>❯</text></svg><svg x="3540"><rect width="10" height="20" x="30" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> r</text></svg><svg x="4720"><rect width="10" height="20" x="30" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZ19b66k" x="20" y="36"><style>.tZ19b66k {fill: #cf3c40;font-weight: bold}</style>r</text></svg><svg x="5900"><rect width="10" height="20" x="30" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZ19b66k" x="20" y="36">r</text><text class="t1T2NSG" x="30" y="36"><style>.t1T2NSG {fill: #e7ce61}</style>emote-share readme.md</text></svg><svg x="7080"><rect width="10" height="20" x="40" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZ19b66k" x="20" y="36">re</text><text class="t1T2NSG" x="40" y="36">mote-share readme.md</text></svg><svg x="8260"><rect width="10" height="20" x="50" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZ19b66k" x="20" y="36">rem</text><text class="t1T2NSG" x="50" y="36">ote-share readme.md</text></svg><svg x="9440"><rect width="10" height="20" x="60" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZ19b66k" x="20" y="36">remo</text><text class="t1T2NSG" x="60" y="36">te-share readme.md</text></svg><svg x="10620"><rect width="10" height="20" x="70" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZ19b66k" x="20" y="36">remot</text><text class="t1T2NSG" x="70" y="36">e-share readme.md</text></svg><svg x="11800"><rect width="10" height="20" x="80" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZ19b66k" x="20" y="36">remote</text><text class="t1T2NSG" x="80" y="36">-share readme.md</text></svg><svg x="12980"><rect width="10" height="20" x="90" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZ19b66k" x="20" y="36">remote-</text><text class="t1T2NSG" x="90" y="36">share readme.md</text></svg><svg x="14160"><rect width="10" height="20" x="100" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZ19b66k" x="20" y="36">remote-s</text><text class="t1T2NSG" x="100" y="36">hare readme.md</text></svg><svg x="15340"><rect width="10" height="20" x="110" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZ19b66k" x="20" y="36">remote-sh</text><text class="t1T2NSG" x="110" y="36">are readme.md</text></svg><svg x="16520"><rect width="10" height="20" x="120" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZ19b66k" x="20" y="36">remote-sha</text><text class="t1T2NSG" x="120" y="36">re readme.md</text></svg><svg x="17700"><rect width="10" height="20" x="130" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZ19b66k" x="20" y="36">remote-shar</text><text class="t1T2NSG" x="130" y="36">e readme.md</text></svg><svg x="18880"><rect width="10" height="20" x="140" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZ19b66k" x="20" y="36">remote-share</text><text class="t1T2NSG" x="140" y="36"> readme.md</text></svg><svg x="20060"><rect width="10" height="20" x="140" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36"><style>.tZTSqFo {fill: #9e70c2}</style>remote-share</text><text class="t1T2NSG" x="140" y="36"> readme.md</text></svg><svg x="21240"><rect width="10" height="20" x="150" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share </text><text class="t1T2NSG" x="150" y="36">readme.md</text></svg><svg x="22420"><rect width="10" height="20" x="150" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="t1T2NSG" x="150" y="36">readme.md</text></svg><svg x="23600"><rect width="10" height="20" x="160" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> r</text><text class="t1T2NSG" x="160" y="36">eadme.md</text></svg><svg x="24780"><rect width="10" height="20" x="160" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36"><style>.tzlD4u {fill: #9fcc4e;text-decoration: underline}</style>r</text><text class="tZ1XQohX" x="160" y="36">eadme.md</text></svg><svg x="25960"><rect width="10" height="20" x="170" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">re</text><text class="tZ1XQohX" x="170" y="36">adme.md</text></svg><svg x="27140"><rect width="10" height="20" x="180" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">rea</text><text class="tZ1XQohX" x="180" y="36">dme.md</text></svg><svg x="28320"><rect width="10" height="20" x="190" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">read</text><text class="tZ1XQohX" x="190" y="36">me.md</text></svg><svg x="29500"><rect width="10" height="20" x="200" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">readm</text><text class="tZ1XQohX" x="200" y="36">e.md</text></svg><svg x="30680"><rect width="10" height="20" x="210" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">readme</text><text class="tZ1XQohX" x="210" y="36">.md</text></svg><svg x="31860"><rect width="10" height="20" x="220" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">readme.</text><text class="tZ1XQohX" x="220" y="36">md</text></svg><svg x="33040"><rect width="10" height="20" x="230" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">readme.d</text></svg><svg x="34220"><rect width="10" height="20" x="230" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.d</text></svg><svg x="35400"><rect width="10" height="20" x="220" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.</text></svg><svg x="36580"><rect width="10" height="20" x="220" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">readme.</text></svg><svg x="37760"><rect width="10" height="20" x="230" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">readme.m</text></svg><svg x="38940"><rect width="10" height="20" x="230" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">readme.m</text><text class="t1T2NSG" x="230" y="36">d</text></svg><svg x="40120"><rect width="10" height="20" x="240" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">readme.md</text></svg><svg x="41300"><rect width="10" height="20" x="250" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">readme.md</text></svg><svg x="42480"><rect width="10" height="20" x="250" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">readme.md</text></svg><svg x="43660"><rect width="10" height="20" x="260" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tzlD4u" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> &amp;</text></svg><svg x="44840"><rect width="10" height="20" x="260" y="20" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text></svg><svg x="46020"><rect width="10" height="20" x="0" y="40" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text></svg><svg x="47200"><rect width="10" height="20" x="0" y="40" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text></svg><svg x="48380"><rect width="10" height="20" x="20" y="80" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text></svg><svg x="49560"><rect width="10" height="20" x="0" y="100" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text></svg><svg x="50740"><rect width="10" height="20" x="0" y="100" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text></svg><svg x="51920"><rect width="10" height="20" x="0" y="160" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text></svg><svg x="53100"><rect width="10" height="20" x="0" y="160" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text></svg><svg x="54280"><rect width="10" height="20" x="0" y="160" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text></svg><svg x="55460"><rect width="10" height="20" x="20" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text></svg><svg x="56640"><rect width="10" height="20" x="30" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> c</text></svg><svg x="57820"><rect width="10" height="20" x="30" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> </text><text class="tZ19b66k" x="20" y="216">c</text></svg><svg x="59000"><rect width="10" height="20" x="30" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> </text><text class="tZ19b66k" x="20" y="216">c</text><text class="t1T2NSG" x="30" y="216">url https://thunderingzipper.localtunnel.me</text></svg><svg x="60180"><rect width="10" height="20" x="40" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> </text><text class="tZ19b66k" x="20" y="216">cu</text><text class="t1T2NSG" x="40" y="216">rl https://thunderingzipper.localtunnel.me</text></svg><svg x="61360"><rect width="10" height="20" x="40" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> </text><text class="tZTSqFo" x="20" y="216">cu</text><text class="t1T2NSG" x="40" y="216">rl https://thunderingzipper.localtunnel.me</text></svg><svg x="62540"><rect width="10" height="20" x="50" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> </text><text class="tZTSqFo" x="20" y="216">cur</text><text class="t1T2NSG" x="50" y="216">l https://thunderingzipper.localtunnel.me</text></svg><svg x="63720"><rect width="10" height="20" x="50" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> </text><text class="tZ19b66k" x="20" y="216">cur</text><text class="t1T2NSG" x="50" y="216">l https://thunderingzipper.localtunnel.me</text></svg><svg x="64900"><rect width="10" height="20" x="60" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> </text><text class="tZ19b66k" x="20" y="216">curl</text><text class="t1T2NSG" x="60" y="216"> https://thunderingzipper.localtunnel.me</text></svg><svg x="66080"><rect width="10" height="20" x="60" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> </text><text class="tZTSqFo" x="20" y="216">curl</text><text class="t1T2NSG" x="60" y="216"> https://thunderingzipper.localtunnel.me</text></svg><svg x="67260"><rect width="10" height="20" x="70" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> </text><text class="tZTSqFo" x="20" y="216">curl </text><text class="t1T2NSG" x="70" y="216">https://thunderingzipper.localtunnel.me</text></svg><svg x="68440"><rect width="10" height="20" x="70" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> </text><text class="tZTSqFo" x="20" y="216">curl</text><text class="tZ1XQohX" x="60" y="216"> </text><text class="t1T2NSG" x="70" y="216">https://thunderingzipper.localtunnel.me</text></svg><svg x="69620"><rect width="10" height="20" x="430" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> </text><text class="tZTSqFo" x="20" y="216">curl</text><text class="tZ1XQohX" x="60" y="216"> https://learnedchance.localtunnel.me</text></svg><svg x="70800"><rect width="10" height="20" x="430" y="200" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> </text><text class="tZTSqFo" x="20" y="216">curl</text><text class="tZ1XQohX" x="60" y="216"> </text><text class="tZLMqtg" x="70" y="216">https://learnedchance.localtunnel.me</text></svg><svg x="71980"><rect width="10" height="20" x="0" y="220" fill="#42535b"></rect><text class="tuohi3" x="0" y="16">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="16"> </text><text class="t1b70aa" x="330" y="16">master*</text><text class="tZLMqtg" x="0" y="36">❯</text><text class="tZ1XQohX" x="10" y="36"> </text><text class="tZTSqFo" x="20" y="36">remote-share</text><text class="tZ1XQohX" x="140" y="36"> </text><text class="tZLMqtg" x="150" y="36">readme.md</text><text class="tZ1XQohX" x="240" y="36"> </text><text class="tZLMqtg" x="250" y="36">&amp;</text><text class="tuohi3" x="0" y="76">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="76"> </text><text class="t1b70aa" x="330" y="76">master*</text><text class="tZLMqtg" x="0" y="96">❯</text><text class="tZ1XQohX" x="10" y="96"> https://learnedchance.localtunnel.me</text><text class="tuohi3" x="0" y="136">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="136"> </text><text class="t1b70aa" x="330" y="136">master*</text><text class="tZLMqtg" x="0" y="156">❯</text><text class="tuohi3" x="0" y="196">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="196"> </text><text class="t1b70aa" x="330" y="196">master*</text><text class="tZLMqtg" x="0" y="216">❯</text><text class="tZ1XQohX" x="10" y="216"> </text><text class="tZTSqFo" x="20" y="216">curl</text><text class="tZ1XQohX" x="60" y="216"> </text><text class="tZLMqtg" x="70" y="216">https://learnedchance.localtunnel.me</text></svg><svg x="73160"><rect width="10" height="20" x="690" y="560" fill="#42535b"></rect><text class="tZ1XQohX" x="0" y="36">```</text><text class="tZ1XQohX" x="0" y="56">npm install -g remote-share-cli</text><text class="tZ1XQohX" x="0" y="76">```</text><text class="tZ1XQohX" x="0" y="116">## Usage</text><text class="tZ1XQohX" x="0" y="156">```</text><text class="tZ1XQohX" x="0" y="176">❯ remote-share --help</text><text class="tZ1XQohX" x="20" y="216">Quickly share files from command line with the world</text><text class="tZ1XQohX" x="20" y="256">Usage</text><text class="tZ1XQohX" x="40" y="276">$ remote-share [file]</text><text class="tZ1XQohX" x="20" y="316">Options</text><text class="tZ1XQohX" x="40" y="336">-n, --name Forced download name of the file</text><text class="tZ1XQohX" x="20" y="376">Examples</text><text class="tZ1XQohX" x="40" y="396">$ remote-share shared.png</text><text class="tZ1XQohX" x="40" y="416">https://mysteriouswomen.localtunnel.me</text><text class="tZ1XQohX" x="40" y="456">$ cat shared.png | remote-share --name=shared.png</text><text class="tZ1XQohX" x="40" y="476">https://humbleappliance.localtunnel.me</text><text class="tZ1XQohX" x="0" y="496">```</text><text class="tZ1XQohX" x="0" y="536">## Related projects</text><text class="tZ1XQohX" x="0" y="576">*[share-cli](https://github.com/marionebl/share-cli) - Quickly shar</text></svg><svg x="74340"><rect width="10" height="20" x="0" y="560" fill="#42535b"></rect><text class="tZ1XQohX" x="0" y="36">```</text><text class="tZ1XQohX" x="0" y="56">❯ remote-share --help</text><text class="tZ1XQohX" x="20" y="96">Quickly share files from command line with the world</text><text class="tZ1XQohX" x="20" y="136">Usage</text><text class="tZ1XQohX" x="40" y="156">$ remote-share [file]</text><text class="tZ1XQohX" x="20" y="196">Options</text><text class="tZ1XQohX" x="40" y="216">-n, --name Forced download name of the file</text><text class="tZ1XQohX" x="20" y="256">Examples</text><text class="tZ1XQohX" x="40" y="276">$ remote-share shared.png</text><text class="tZ1XQohX" x="40" y="296">https://mysteriouswomen.localtunnel.me</text><text class="tZ1XQohX" x="40" y="336">$ cat shared.png | remote-share --name=shared.png</text><text class="tZ1XQohX" x="40" y="356">https://humbleappliance.localtunnel.me</text><text class="tZ1XQohX" x="0" y="376">```</text><text class="tZ1XQohX" x="0" y="416">## Related projects</text><text class="tZ1XQohX" x="0" y="456">*[share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line to your local networ</text><text class="tZ1XQohX" x="0" y="476">k</text><text class="tZ1XQohX" x="0" y="516">---</text><text class="tZ1XQohX" x="0" y="536">remote-share-cli is built by [Mario Nebl](https://github.com/marionebl) and released</text><text class="tZ1XQohX" x="0" y="556">under the [MIT](./license.md) license.</text></svg><svg x="75520"><rect width="10" height="20" x="0" y="560" fill="#42535b"></rect><text class="tZ1XQohX" x="0" y="16">```</text><text class="tZ1XQohX" x="0" y="36">❯ remote-share --help</text><text class="tZ1XQohX" x="20" y="76">Quickly share files from command line with the world</text><text class="tZ1XQohX" x="20" y="116">Usage</text><text class="tZ1XQohX" x="40" y="136">$ remote-share [file]</text><text class="tZ1XQohX" x="20" y="176">Options</text><text class="tZ1XQohX" x="40" y="196">-n, --name Forced download name of the file</text><text class="tZ1XQohX" x="20" y="236">Examples</text><text class="tZ1XQohX" x="40" y="256">$ remote-share shared.png</text><text class="tZ1XQohX" x="40" y="276">https://mysteriouswomen.localtunnel.me</text><text class="tZ1XQohX" x="40" y="316">$ cat shared.png | remote-share --name=shared.png</text><text class="tZ1XQohX" x="40" y="336">https://humbleappliance.localtunnel.me</text><text class="tZ1XQohX" x="0" y="356">```</text><text class="tZ1XQohX" x="0" y="396">## Related projects</text><text class="tZ1XQohX" x="0" y="436">*[share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line to your local networ</text><text class="tZ1XQohX" x="0" y="456">k</text><text class="tZ1XQohX" x="0" y="496">---</text><text class="tZ1XQohX" x="0" y="516">remote-share-cli is built by [Mario Nebl](https://github.com/marionebl) and released</text><text class="tZ1XQohX" x="0" y="536">under the [MIT](./license.md) license.</text><text class="tZ1XQohX" x="0" y="556">&#39;remote-share readme.md &amp;&#39; has ended</text></svg><svg x="76700"><rect width="10" height="20" x="0" y="560" fill="#42535b"></rect><text class="tZ1XQohX" x="0" y="16">```</text><text class="tZ1XQohX" x="0" y="36">❯ remote-share --help</text><text class="tZ1XQohX" x="20" y="76">Quickly share files from command line with the world</text><text class="tZ1XQohX" x="20" y="116">Usage</text><text class="tZ1XQohX" x="40" y="136">$ remote-share [file]</text><text class="tZ1XQohX" x="20" y="176">Options</text><text class="tZ1XQohX" x="40" y="196">-n, --name Forced download name of the file</text><text class="tZ1XQohX" x="20" y="236">Examples</text><text class="tZ1XQohX" x="40" y="256">$ remote-share shared.png</text><text class="tZ1XQohX" x="40" y="276">https://mysteriouswomen.localtunnel.me</text><text class="tZ1XQohX" x="40" y="316">$ cat shared.png | remote-share --name=shared.png</text><text class="tZ1XQohX" x="40" y="336">https://humbleappliance.localtunnel.me</text><text class="tZ1XQohX" x="0" y="356">```</text><text class="tZ1XQohX" x="0" y="396">## Related projects</text><text class="tZ1XQohX" x="0" y="436">*[share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line to your local networ</text><text class="tZ1XQohX" x="0" y="456">k</text><text class="tZ1XQohX" x="0" y="496">---</text><text class="tZ1XQohX" x="0" y="516">remote-share-cli is built by [Mario Nebl](https://github.com/marionebl) and released</text><text class="tZ1XQohX" x="0" y="536">under the [MIT](./license.md) license.</text><text class="tZ1XQohX" x="0" y="556">&#39;remote-share readme.md &amp;&#39; has ended</text></svg><svg x="77880"><rect width="10" height="20" x="20" y="560" fill="#42535b"></rect><text class="tZ1XQohX" x="20" y="36">Quickly share files from command line with the world</text><text class="tZ1XQohX" x="20" y="76">Usage</text><text class="tZ1XQohX" x="40" y="96">$ remote-share [file]</text><text class="tZ1XQohX" x="20" y="136">Options</text><text class="tZ1XQohX" x="40" y="156">-n, --name Forced download name of the file</text><text class="tZ1XQohX" x="20" y="196">Examples</text><text class="tZ1XQohX" x="40" y="216">$ remote-share shared.png</text><text class="tZ1XQohX" x="40" y="236">https://mysteriouswomen.localtunnel.me</text><text class="tZ1XQohX" x="40" y="276">$ cat shared.png | remote-share --name=shared.png</text><text class="tZ1XQohX" x="40" y="296">https://humbleappliance.localtunnel.me</text><text class="tZ1XQohX" x="0" y="316">```</text><text class="tZ1XQohX" x="0" y="356">## Related projects</text><text class="tZ1XQohX" x="0" y="396">*[share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line to your local networ</text><text class="tZ1XQohX" x="0" y="416">k</text><text class="tZ1XQohX" x="0" y="456">---</text><text class="tZ1XQohX" x="0" y="476">remote-share-cli is built by [Mario Nebl](https://github.com/marionebl) and released</text><text class="tZ1XQohX" x="0" y="496">under the [MIT](./license.md) license.</text><text class="tZ1XQohX" x="0" y="516">&#39;remote-share readme.md &amp;&#39; has ended</text><text class="tuohi3" x="0" y="556">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="556"> </text><text class="t1b70aa" x="330" y="556">master*</text><text class="tZLMqtg" x="0" y="576">❯</text></svg><svg x="79060"><rect width="10" height="20" x="0" y="560" fill="#42535b"></rect><text class="tZ1XQohX" x="20" y="16">Quickly share files from command line with the world</text><text class="tZ1XQohX" x="20" y="56">Usage</text><text class="tZ1XQohX" x="40" y="76">$ remote-share [file]</text><text class="tZ1XQohX" x="20" y="116">Options</text><text class="tZ1XQohX" x="40" y="136">-n, --name Forced download name of the file</text><text class="tZ1XQohX" x="20" y="176">Examples</text><text class="tZ1XQohX" x="40" y="196">$ remote-share shared.png</text><text class="tZ1XQohX" x="40" y="216">https://mysteriouswomen.localtunnel.me</text><text class="tZ1XQohX" x="40" y="256">$ cat shared.png | remote-share --name=shared.png</text><text class="tZ1XQohX" x="40" y="276">https://humbleappliance.localtunnel.me</text><text class="tZ1XQohX" x="0" y="296">```</text><text class="tZ1XQohX" x="0" y="336">## Related projects</text><text class="tZ1XQohX" x="0" y="376">*[share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line to your local networ</text><text class="tZ1XQohX" x="0" y="396">k</text><text class="tZ1XQohX" x="0" y="436">---</text><text class="tZ1XQohX" x="0" y="456">remote-share-cli is built by [Mario Nebl](https://github.com/marionebl) and released</text><text class="tZ1XQohX" x="0" y="476">under the [MIT](./license.md) license.</text><text class="tZ1XQohX" x="0" y="496">&#39;remote-share readme.md &amp;&#39; has ended</text><text class="tuohi3" x="0" y="536">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="536"> </text><text class="t1b70aa" x="330" y="536">master*</text><text class="tZLMqtg" x="0" y="556">❯</text></svg><svg x="80240"><rect width="10" height="20" x="0" y="560" fill="#42535b"></rect><text class="tZ1XQohX" x="20" y="16">Quickly share files from command line with the world</text><text class="tZ1XQohX" x="20" y="56">Usage</text><text class="tZ1XQohX" x="40" y="76">$ remote-share [file]</text><text class="tZ1XQohX" x="20" y="116">Options</text><text class="tZ1XQohX" x="40" y="136">-n, --name Forced download name of the file</text><text class="tZ1XQohX" x="20" y="176">Examples</text><text class="tZ1XQohX" x="40" y="196">$ remote-share shared.png</text><text class="tZ1XQohX" x="40" y="216">https://mysteriouswomen.localtunnel.me</text><text class="tZ1XQohX" x="40" y="256">$ cat shared.png | remote-share --name=shared.png</text><text class="tZ1XQohX" x="40" y="276">https://humbleappliance.localtunnel.me</text><text class="tZ1XQohX" x="0" y="296">```</text><text class="tZ1XQohX" x="0" y="336">## Related projects</text><text class="tZ1XQohX" x="0" y="376">*[share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line to your local networ</text><text class="tZ1XQohX" x="0" y="396">k</text><text class="tZ1XQohX" x="0" y="436">---</text><text class="tZ1XQohX" x="0" y="456">remote-share-cli is built by [Mario Nebl](https://github.com/marionebl) and released</text><text class="tZ1XQohX" x="0" y="476">under the [MIT](./license.md) license.</text><text class="tZ1XQohX" x="0" y="496">&#39;remote-share readme.md &amp;&#39; has ended</text><text class="tuohi3" x="0" y="536">~/Projects/labs/remote-share-cli</text><text class="tZ1XQohX" x="320" y="536"> </text><text class="t1b70aa" x="330" y="536">master*</text><text class="tZLMqtg" x="0" y="556">❯</text></svg></svg></g></g></svg>
