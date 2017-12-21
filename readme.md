@@ -1,8 +1,7 @@
 > Quickly share files from command line with the world
 
 <p align="center">
-  <img width="750" src="https://cdn.rawgit.com/marionebl/remote-share-cli/bde03c73b22ae3dda4e7df9e5b92b7829646d0bf/demo.svg
-  ">
+  <img width="750" src="https://cdn.rawgit.com/marionebl/remote-share-cli/a664b11f/demo.svg">
 </p>
 
 > Demo created with [svg-term-cli](https://github.com/marionebl/svg-term-cli):
