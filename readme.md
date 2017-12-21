@@ -4,6 +4,9 @@
   <img width="750" src="https://cdn.rawgit.com/marionebl/remote-share-cli/a664b11f/demo.svg">
 </p>
 
+> Demo created with [svg-term-cli](https://github.com/marionebl/svg-term-cli):
+> `cat demo.json | svg-term -o demo.svg`
+
 # remote-share-cli
 
 * :rocket: Dead Simple
